@@ -1,38 +1,11 @@
-# 👋 Hi, I'm Mr. Developer
+# Hi, I'm Mr. Developer 👋
 
-## 🚀 AI Developer & Backend Engineer
+AI Developer & Backend Engineer building AI-powered applications, APIs, and self-hosted tools.
 
-Building:
+🚀 **Projects**
+- **Gemini Nexus** — OpenAI-compatible Gemini API backend.
+- **Syntrabase** — Self-hosted Firebase alternative.
 
-* OpenAI-compatible Gemini APIs
-* FastAPI AI backends
-* Telegram admin bots
-* Streaming AI systems
-* Multimodal AI tools
+🛠️ Python · FastAPI · JavaScript · Docker · PostgreSQL
 
-## 🔥 Main Project
-
-### Gemini Nexus System
-
-OpenAI-compatible Gemini backend with:
-
-* Streaming responses
-* Image input support
-* API key authentication
-* Telegram admin tools
-* Docker deployment
-* SQLite database
-
-## 🛠️ Tech Stack
-
-* Python
-* FastAPI
-* Docker
-* SQLite
-* Telegram Bot API
-* Gemini Web API
-* OpenAI SDK
-
-## 🌐 Links
-
-* GitHub: https://github.com/Animeki004
+🔗 [GitHub](https://github.com/Animeki004)
